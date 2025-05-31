@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1748317784 source:c:\users\dell\documents\cours gl l1\langage c\sous_programme\calculator\numericallibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"num.h"
+
+1748317061 c:\users\dell\documents\cours gl l1\langage c\sous_programme\calculator\numericallibrary\num.h
+
+1748317855 source:c:\users\dell\documents\cours gl l1\langage c\sous_programme\calculator\numericallibrary\cal.c
+
